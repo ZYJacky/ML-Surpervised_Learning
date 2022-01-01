@@ -1,10 +1,3 @@
-# Samples
+# ML-surpervised-learning
 
-Multiparadigm Software Development Lab1 
-  - Example of multi-threaded programming
-  
-Surpervised Learning
-  - Classical surpervised learning models (perceptron, decision tree, etc.)
-
-Algorithms
-  - Design and implementation of data structures and algorithms and solution to related problems
+Collections of implementation of classical surpervised learning models done in CSE417 @ WashU SP21.
